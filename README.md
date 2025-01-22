@@ -25,6 +25,3 @@ The library calculates the great-circle distance (shortest distance on the surfa
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-
-git clone https://github.com/KENNETH1005-zy/geo-point-matcher.git
